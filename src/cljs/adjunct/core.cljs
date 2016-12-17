@@ -6,3 +6,6 @@
 (enable-console-print!)
 
 (println "Loaded adjunct.core.")
+
+;(require 'adjunct.om.quick-start)
+;(require 'adjunct.om.identity)
