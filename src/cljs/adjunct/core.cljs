@@ -9,3 +9,4 @@
 
 ;(require 'adjunct.om.quick-start)
 ;(require 'adjunct.om.identity)
+;(require 'adjunct.om.datascript)

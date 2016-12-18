@@ -6,4 +6,5 @@
   :dependencies [[org.clojure/clojure "1.8.0"]
                  [org.clojure/clojurescript "1.9.293"]
                  [org.omcljs/om "1.0.0-alpha47"]
+                 [datascript "0.15.5"]
                  [figwheel-sidecar "0.5.8" :scope "test"]])
